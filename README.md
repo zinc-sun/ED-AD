@@ -1,5 +1,5 @@
 # ED-AD
-This project studies the performance of entanglement-based QKD with a two-stage distillation process (Entanglement distillation + Advantage distillation).
+This project studies the performance of entanglement-based QKD with a two-stage distillation process (Entanglement distillation + Advantage distillation). The paper is at (<https://arxiv.org/abs/2410.19334>).
 
 # Prerequisites
 
